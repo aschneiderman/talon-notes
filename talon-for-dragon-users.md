@@ -17,6 +17,7 @@ https://talonvoice.slack.com/archives/C9LG0U0UQ/p1681809188197989
 - the alphabet: practice.  also help alphabet will display the alphabet
 - other basics: https://talon.wiki/basic_usage/
 - help active will display the available commands for the active application. navigate help using the displayed numbers. e.g., help one one or help eleven.  help next, help previous, go to the next or previous page of help items if there are a lot, help close
+- command history: the last few commands as Talon understood them; if you’re not sure what Talon is doing, or if it understood you correctly, this is how to check it.
 
 # Ok but where's my "correct that"?
 
