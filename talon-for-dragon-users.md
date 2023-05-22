@@ -1,7 +1,11 @@
 # Getting started
 
+NOTE: assuming if you're using Dragon, you're coming from Windows; see Talon docs for Linux/Mac
+
 ## setup
 - why have to grab kj files first?
+  - Clone kf files -- easiest is with GitHub Desktop
+  - Put it in %AppData/Talon/user
 - what is forking?
 - using gh desktop 
 - try built in speech engine, Conformer, but can use Dragon
