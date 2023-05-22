@@ -20,6 +20,12 @@ https://talonvoice.slack.com/archives/C9LG0U0UQ/p1681809188197989
 
 # Ok but where's my "correct that"?
 
+[notes dump](correct-that.md)
+
+
+# if i want to use dragon and talon
+
+https://talonvoice.slack.com/archives/C7ENXA7C4/p1681781925652109?thread_ts=1681780867.070029&channel=C7ENXA7C4&message_ts=1681781925.652109
 
 
 # editor: super fast w cursorless
