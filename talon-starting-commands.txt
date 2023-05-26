@@ -1,0 +1,4 @@
+- basic dictation: "dictation mode" 
+- command mode: switch to command mode
+- mic on and off: talon wake, talon sleep
+
