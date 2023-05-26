@@ -9,6 +9,7 @@ NOTE: assuming if you're using Dragon, you're coming from Windows; see Talon doc
 - what is forking?
 - using gh desktop 
 - try built in speech engine, Conformer, but can use Dragon
+- Dense Mouse Grid: https://github.com/tararoys/dense-mouse-grid/blob/dense_mouse_grid_2/dense_mouse_grid/README.md
 
 Ask splondike: forking?  did i do this right?  merging in additions they've done?
 https://talonvoice.slack.com/archives/C9LG0U0UQ/p1681809188197989
