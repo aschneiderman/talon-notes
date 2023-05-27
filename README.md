@@ -1,2 +1,4 @@
 # talon-notes
-my notes on using Talon
+My notes on using Talon, including
+- [Talon for Dragon Users](talon-for-dragon-users.md)
+- Useful [links](links.md)

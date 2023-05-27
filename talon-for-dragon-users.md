@@ -1,43 +1,50 @@
-# Getting started
+# Talon for Dragon Users
 
-NOTE: assuming if you're using Dragon, you're coming from Windows; see Talon docs for Linux/Mac
+Thinking of switching from Dragon to Talon?  Here's one way to do it:
 
-## setup
-- why have to grab kj files first?
-  - Clone kf files -- easiest is with GitHub Desktop
-  - Put it in %AppData/Talon/user
-- what is forking?
-- using gh desktop 
-- try built in speech engine, Conformer, but can use Dragon
-- Dense Mouse Grid: https://github.com/tararoys/dense-mouse-grid/blob/dense_mouse_grid_2/dense_mouse_grid/README.md
+*NOTE: this is just an outline;as I flesh it out, I'll add links to each section*
 
-Ask splondike: forking?  did i do this right?  merging in additions they've done?
-https://talonvoice.slack.com/archives/C9LG0U0UQ/p1681809188197989
+## Get Set Up
+- Install Talon
+- Install Commands:  unlike Dragon, out of the box Talon doesn't give you any commands.  But adding in the basics plus some cool, free tools is super easy
+- Choose Your Speech Recognition Engine: (briefly explain why -- and why this is a feature, not a bug)
+- Test Your Setup: how do you know your setup works?
+- Get Help If You're Stuck: Finding [Documentation](links.md), Asking Qs on Slack, Common Problems
 
-# learning 
-
-- basic dictation: "dictation mode" 
-- command mode: switch to command mode
-- mic on and off: talon wake, talon sleep
-- the alphabet: practice.  also help alphabet will display the alphabet
-- other basics: https://talon.wiki/basic_usage/
-- help active will display the available commands for the active application. navigate help using the displayed numbers. e.g., help one one or help eleven.  help next, help previous, go to the next or previous page of help items if there are a lot, help close
-- command history: the last few commands as Talon understood them; if you’re not sure what Talon is doing, or if it understood you correctly, this is how to check it.
-
-# Ok but where's my "correct that"?
-
-[notes dump](correct-that.md)
+## First Steps
 
 
-# if i want to use dragon and talon
+Write Some Words
+- Say Some Words
+- Say Some Letters
+- Correct Some Words
 
-https://talonvoice.slack.com/archives/C7ENXA7C4/p1681781925652109?thread_ts=1681780867.070029&channel=C7ENXA7C4&message_ts=1681781925.652109
 
+Browse the Web
 
-# editor: super fast w cursorless
-You're gonna need an editor.
+- (task)
+- (task)
 
-w vs code:  cursorless rocks
-- https://www.cursorless.org/docs/
-- Why so great:  puts a dot over every word etc (why this is so cool)
+Get Around My Desktop
+
+- (task)
+- (task)
+
+Find More Commands
+
+- (task)
+- (task)
+
+Make My Own Commands
+
+- (task)
+- (task)
+
+Write Code
+
+- (task)
+- (task)
+
+## What Next
+
 
