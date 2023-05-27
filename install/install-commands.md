@@ -1,6 +1,8 @@
 # Install Commands
 
-unlike Dragon, out of the box Talon doesn't give you any commands.  But adding in the basics plus some cool, free tools is super easy.
+NOTES DUMP:
+
+Unlike Dragon, out of the box Talon doesn't give you any commands.  But adding in the basics plus some cool, free tools is super easy.
 
 (A lot more)
 
