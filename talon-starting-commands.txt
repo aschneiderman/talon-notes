@@ -1,7 +1,0 @@
-- basic dictation: "dictation mode" 
-- command mode: switch to command mode
-- mic on and off: talon wake, talon sleep
-
-
-
-https://github.com/tararoys/dense-mouse-grid/blob/dense_mouse_grid_2/dense_mouse_grid/README.md
