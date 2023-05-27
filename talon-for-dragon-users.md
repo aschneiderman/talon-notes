@@ -11,7 +11,7 @@ Thinking of switching from Dragon to Talon?  Here's one way to do it.
 - Test Your Setup
 - Get Help If You're Stuck: Slack, [Documentation](help/links.md), etc
 
-## First Steps
+## Start Learning
 
 
 Write Some Words:
