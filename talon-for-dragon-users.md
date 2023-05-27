@@ -6,10 +6,10 @@ Thinking of switching from Dragon to Talon?  Here's one way to do it:
 
 ## Get Set Up
 - Install Talon
-- Install Commands:  unlike Dragon, out of the box Talon doesn't give you any commands.  But adding in the basics plus some cool, free tools is super easy
-- Choose Your Speech Recognition Engine: (briefly explain why -- and why this is a feature, not a bug)
-- Test Your Setup: how do you know your setup works?
-- Get Help If You're Stuck: Finding [Documentation](links.md), Slack, Etc
+- Install [Commands](install/install-commands.Md)
+- Choose Your [Speech Recognition](install/install-speech.md) Engine
+- Test Your Setup
+- Get Help If You're Stuck: Slack, [Documentation](links.md), etc
 
 ## First Steps
 
