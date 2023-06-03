@@ -3,9 +3,18 @@
 
 
 Scripting:
-> some_command <user.text>: insert("command {text}\n")
+- some_command <user.text>: insert("command {text}\n")
+- app: Outlook
 
 Basic navigation and editing, especially backspace
+
+https://tararoys.github.io/Getting-Started-With-Dictation-Mode.html
+
+https://tararoys.github.io/Navigating-around-the-windows-operating-system.html
+
+https://tararoys.github.io/Getting-Started-With-Coding-by-Voice.html
+
+
 
 how to turn off the dots with cursorless
 
