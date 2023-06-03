@@ -10,10 +10,13 @@ Scripting:
 - focus chrome
 - running list         (see all active applications)
 - running hide 
-- tab (open | new), tab last, tab next
-m, tab close, tab (reopen|restore), go tab <number>
+- tab (open | new), tab last, tab next, tab close, tab (reopen|restore), go tab <number>
+- go up fifth will go up five lines. Try saying e.g. select up third to hit shift-up three times
+- Generic editing commands: https://github.com/knausj85/knausj_talon/blob/main/core/edit/edit.talon
+
 
 Basic navigation and editing, especially backspace
+- 
 
 https://tararoys.github.io/Getting-Started-With-Dictation-Mode.html
 
