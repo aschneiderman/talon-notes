@@ -12,6 +12,7 @@ how to turn off the dots with cursorless
 Tidbits:
 
 - I believe that is "words_to_replace.csv" in knausj. If you're using knausj, just say "customize words to replace" and the csv file will pop up
+- help help, help alphabet 
 - "copy address" in Rango copies the url. I would check how it's implemented there
 
 ### Up Next
