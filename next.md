@@ -6,6 +6,13 @@ Scripting:
 - some_command <user.text>: insert("command {text}\n")
 - app: Outlook
 
+
+- focus chrome
+- running list         (see all active applications)
+- running hide 
+- tab (open | new), tab last, tab next
+m, tab close, tab (reopen|restore), go tab <number>
+
 Basic navigation and editing, especially backspace
 
 https://tararoys.github.io/Getting-Started-With-Dictation-Mode.html
