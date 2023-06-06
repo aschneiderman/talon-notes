@@ -4,6 +4,8 @@
 
 ## Get [Set Up](install/get-setup.md)
 
+to incorporate: https://www.joshwcomeau.com/blog/hands-free-coding/
+
 ## Write Some Words
 Hello there: talon wake, talon sleep
 
@@ -22,6 +24,8 @@ format some words:
 Say Some  [Letters](basics-write/Alphabet.md), or  `help alphabet`
 -  spell that -- e.g., spell that title trap air look odd near (title: capitalize)
 -  press shift trap air, press control  sun
+-  capitalize letters by prefixing them with “ship”. “ship drum” will output D instead of d.
+-  If I wanted to write the number 1000, I would say one zero third, to repeat the 0 character 3 times.
 
 navigate some text:
 - go right, go right fifth, the word right, go line end/start, escape Backspace
