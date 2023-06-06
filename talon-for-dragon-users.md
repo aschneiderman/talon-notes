@@ -12,10 +12,11 @@ Hello there: talon wake, talon sleep
 Say Some Words
 - dictation mode, command mode
 - say/phrase ___, word <a-word>
+- dictation mode: scratch that, press for keys
 
 format some words:
-- formatted title my little pony
-- formatted string, camel, snake (underscores), smash ( no space)
+-  title my little pony
+-  string, camel, snake (underscores), smash ( no space)
 - select that, format selection title
 - cap Apple,   cap That
 - block or <language> block for creating a new md code block
@@ -28,7 +29,7 @@ Say Some  [Letters](basics-write/Alphabet.md), or  `help alphabet`
 -  If I wanted to write the number 1000, I would say one zero third, to repeat the 0 character 3 times.
 
 navigate some text:
-- go right, go right fifth, the word right, go line end/start, escape Backspace
+- go right, go right fifth, the word right, go line end/start, escape Backspace, go way up
 - tab (open | new), tab last, tab next, tab close, tab (reopen|restore), go tab <number>
 - go up fifth will go up five lines. Try saying e.g. select up third to hit shift-up three times
 -  with dictation: scratch that, with command: scratch that, undo that, undo that nine times
@@ -41,7 +42,8 @@ navigate some text:
 - I believe that is "words_to_replace.csv" in knausj. If you're using knausj, just say "customize words to replace" and the csv file will pop up
 - Get comfortable with [cursorless](basics-write/cursorless.md)
   - how to turn off the dots with cursorless
-- https://github.com/tararoys/dense-mouse-grid/blob/dense_mouse_grid_2/dense_mouse_grid/README.md
+- https://github.com/tararo5ys/dense-mouse-grid/blob/dense_mouse_grid_2/dense_mouse_grid/README.md
+- phones:  select homophone
 
 ## Browse the Web
 
