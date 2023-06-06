@@ -5,6 +5,7 @@
 -  zap: key(backspace), killed: key(delete), zoom: pageup/pagedown
 
 - Adding list into insert: some_command <user.text>: insert("command {text}\n")
+- shuffle  control <user.letter>:     insert("key(ctlr-{letter})")
 - curl Tab 3: key("tab:3")
 - go tab <number>: key(number)
 - select all: key(ctrl-a)

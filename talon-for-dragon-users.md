@@ -1,5 +1,8 @@
 # Talon for Dragon Users
 
+To research:
+- lists: absolutely critical for Outlook
+
 *NOTE: this is just an outline, from installation through [scripting](basics-commands/scripting-talon.md), plus some [links](help/links.md); for help say `help help`
 
 ## Get [Set Up](install/get-setup.md)

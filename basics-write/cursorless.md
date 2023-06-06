@@ -17,4 +17,7 @@ cursorless katas: https://github.com/Will-Sommers/cursorless-katas
 
 cursorless snippets: https://github.com/pokey/dotfiles/tree/develop/cursorless-snippets
 
-
+```
+take: select    chuck: delete   change: move cursor and delete
+carve: cut      paste too
+```
