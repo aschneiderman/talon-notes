@@ -2,11 +2,18 @@
 
 The knausj talon command set (the most widely used community command set) has the following commands for dealing with homophones: https://github.com/knausj85/knausj_talon/blob/main/core/homophones/homophones.talon, https://github.com/knausj85/knausj_talon/blob/main/core/homophones/homophones_open.talon
 
+
+
+
 I modified my dictation mode setup so that I could use the homophone commands from dictation mode
 
 ￼
 
 My custom dictation setup is here if you want to borrow anything from it: https://github.com/FireChickenProductivity/TalonVoiceDictationSetup
+
+
+words_to_replace only replaces a word if it would have otherwise been recognized.
+additional_words adds entirely new vocab, which doesn't need to already exist, and increases its priority
 
 When working with visual studio code, I can use cursorless commands to quickly navigate, which is handy for fixing misrecognitions
 

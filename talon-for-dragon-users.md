@@ -16,6 +16,7 @@ format some words:
 - formatted string, camel, snake (underscores), smash ( no space)
 - select that, format selection title
 - cap Apple,   cap That
+- block or <language> block for creating a new md code block
 
 
 Say Some  [Letters](basics-write/Alphabet.md), or  `help alphabet`

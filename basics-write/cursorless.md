@@ -9,3 +9,12 @@
 
 vscode Talon cmds:
 - https://github.com/knausj85/knausj_talon/blob/mode_indicator/apps/vscode/vscode.talon
+
+
+pre every line block
+
+cursorless katas: https://github.com/Will-Sommers/cursorless-katas
+
+cursorless snippets: https://github.com/pokey/dotfiles/tree/develop/cursorless-snippets
+
+
