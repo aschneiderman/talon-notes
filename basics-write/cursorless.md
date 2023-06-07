@@ -10,6 +10,7 @@
 vscode Talon cmds:
 - https://github.com/knausj85/knausj_talon/blob/mode_indicator/apps/vscode/vscode.talon
 
+At the beginning, if you are having trouble grabbing the right words, take a closer look at the colors. For example, I was very frustrated until I realized that I kept thinking some dots were green when in fact they were blue. As soon as I realized I was doing that, the problem went away.*
 
 pre every line block
 
