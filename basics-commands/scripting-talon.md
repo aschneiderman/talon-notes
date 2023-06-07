@@ -4,6 +4,7 @@
 
 -  zap: key(backspace), killed: key(delete), zoom: pageup/pagedown
 
+zap <number>: key("backspace:{number}")
 
 ```
 ctx.lists["user.listname"] = ["word", "word2"]

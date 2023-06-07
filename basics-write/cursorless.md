@@ -6,6 +6,11 @@
  - https://jacobegner.blogspot.com/2023/02/talon-voice-and-cursorless-notes.html
  - Re deleting parens, it’s “chuck bounds”, and there’s no doc for it because it’s just a combination of an action with a scope type
 
+
+please word: search the command pallet for that word ￼
+
+user.vscode("some vs code cmd from cmd pallet")
+
 vscode Talon cmds:
 - https://github.com/knausj85/knausj_talon/blob/mode_indicator/apps/vscode/vscode.talon
 
