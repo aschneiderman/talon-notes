@@ -49,13 +49,6 @@ Sample keys:
 - swap: key(alt-tab)
 
 
-one way, from  textnavigation.talon  
-```
-up <number_small>:
-    edit.up()
-    repeat(number_small - 1)
-```
-
  ## Context
 
 - app: Outlook
@@ -67,3 +60,15 @@ up <number_small>:
 
 ## Troubleshooting
 - start with sim("say function round") in the repl to see which rule is matching
+
+
+
+```
+mod.list("git_command", desc="Git commands.")
+mod.list("git_argument", desc="Command-line git options and arguments.")
+
+dirpath = Path(__file__).parent
+arguments_csv_path = str(dirpath / "git_arguments.csv")
+commands_csv_path = str(dirpath / "git_commands.csv")
+
+```
