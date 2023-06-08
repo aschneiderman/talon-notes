@@ -5,6 +5,16 @@ layout: content
 ---
 
 
+
+- zap <number>: key("backspace:{number}")
+- workspace <number>: key("ctrl-{number}")
+
+```
+cube {user.kubectl_action} [{user.kubectl_object}]:
+   insert("kubectl {kubectl_action} ")
+   insert(kubectl_object or "")
+```
+
 - error log
 
 -  zap: key(backspace), killed: key(delete), zoom: pageup/pagedown
