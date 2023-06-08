@@ -1,4 +1,9 @@
-# Scripting Talon
+---
+title: Scripting Talon
+layout: content
+# image: cookies-dataviz.jpg
+---
+
 
 - error log
 
