@@ -7,6 +7,10 @@ description:  Switching to Talon
 navigation_links:
   - name: Setting Up
     link: 'about/'
+  - name: 'Basics'
+    link: ''
+  - name: Cursorless
+    link: 'pages/basics-write/cursorless.html'
   - name: Scripting
     link: 'pages/scripting/scripting-talon.html'
   # - name: Strategies

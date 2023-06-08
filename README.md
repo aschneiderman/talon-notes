@@ -1,6 +1,7 @@
-# creative-dataviz
-Experiments, including a pilot project, for creative dataviz served Data Chefs style
+# talon-notes
 
-website: http://datachefs.org/creative-dataviz-pilot/
+My notes dump for switching from Dragon to Talon
 
-NOTE: if you want to be able to modify the GitHub pages on your desktop/laptop, you need to install and run Jekyll. If you have any issues, take a look at fixing-setup-problems.txt
+website: https://aschneiderman.github.io/talon-notes
+
+links: https://aschneiderman.github.io/talon-notes/pages/help/links.html

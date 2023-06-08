@@ -7,9 +7,9 @@ image: hand-paid-cans-36464-pxh2.jpg
 <h1>How to Switch from Dragon to Talon</h1>
 
 
-Aka my notes dump on switching from Dragon  + Vocola to Talon, from installation through [scripting](pages/scripting/scripting-talon.md), plus some [links](pages/help/links.md); for help say `help help`
+Aka my notes dump on switching from Dragon  + Vocola to Talon, from installation through [scripting](pages/scripting/scripting-talon.html), plus some [links](pages/help/links.html); for help say `help help`
 
-## [Get Set Up](install/get-setup.md)
+## [Get Set Up](pages/install/get-setup.html)
 
 to incorporate: https://www.joshwcomeau.com/blog/hands-free-coding/
 
@@ -29,7 +29,7 @@ format some words:
 - block or <language> block for creating a new md code block
 
 
-Say Some  [Letters](basics-write/Alphabet.md), or  `help alphabet`
+Say Some  [Letters](basics-write/Alphabet.html), or  `help alphabet`
 -  spell that -- e.g., spell that title trap air look odd near (title: capitalize)
 -  press shift trap air, press control  sun
 -  capitalize letters by prefixing them with “ship”. “ship drum” will output D instead of d.
@@ -47,7 +47,7 @@ navigate some text:
 ## Correct Some Words
 -  copy all, delete = backspace, clear line, clear word left
 - I believe that is "words_to_replace.csv" in knausj. If you're using knausj, just say "customize words to replace" and the csv file will pop up
-- Get comfortable with [cursorless](basics-write/cursorless.md)
+- Get comfortable with [cursorless](basics-write/cursorless.html)
   - how to turn off the dots with cursorless
 - https://github.com/tararo5ys/dense-mouse-grid/blob/dense_mouse_grid_2/dense_mouse_grid/README.md
 - phones:  select homophone
