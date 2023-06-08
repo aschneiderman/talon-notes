@@ -1,7 +1,7 @@
 ---
 title: Scripting Talon
 layout: content
-# image: cookies-dataviz.jpg
+# image: pencils-brushes-1043734-pxh.jpg
 ---
 
 

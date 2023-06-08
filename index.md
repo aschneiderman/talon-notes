@@ -1,26 +1,15 @@
 ---
-# title: Welcome to  Talon Notes!
-layout: home
-# image: site-banner.jpg
+# title: How to Switch From Dragon to Talon
+layout: content
+image: hand-paid-cans-36464-pxh2.jpg
 ---
 
-# Welcome to Talon for Dragon Users
-
-Welcome to Talon for Dragon Users, aka my notes dump for switching from Dragon + Vocola to Talon.
-
-- [Criteria](pages/pilot-criteria.html) 
+<h1>How to Switch from Dragon to Talon</h1>
 
 
-- [Scripting](pages/scripting/scripting-talon.html)
+Aka my notes dump on switching from Dragon  + Vocola to Talon, from installation through [scripting](pages/scripting/scripting-talon.md), plus some [links](pages/help/links.md); for help say `help help`
 
-
-
-To research:
-- lists: absolutely critical for Outlook
-
-*NOTE: this is just an outline, from installation through [scripting](basics-commands/scripting-talon.md), plus some [links](help/links.md); for help say `help help`
-
-## Get [Set Up](install/get-setup.md)
+## [Get Set Up](install/get-setup.md)
 
 to incorporate: https://www.joshwcomeau.com/blog/hands-free-coding/
 
