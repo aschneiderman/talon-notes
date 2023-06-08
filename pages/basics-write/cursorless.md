@@ -9,6 +9,8 @@
 
 please word: search the command pallet for that word ￼
 
+- to replace slashes w backslashes: use take blue/whatever slash to take the first one, cursor more tenth to select the next ten and then say backslash
+
 user.vscode("some vs code cmd from cmd pallet")
 
 vscode Talon cmds:
