@@ -11,7 +11,7 @@ Aka my notes dump on switching from Dragon  + Vocola to Talon, from installation
 
 ## [Get Set Up](pages/install/get-setup.html)
 
-to incorporate: https://www.joshwcomeau.com/blog/hands-free-coding/
+
 
 ## Write Some Words
 Hello there: talon wake, talon sleep
@@ -74,15 +74,14 @@ navigate some text:
 
 
 ## Make My Own Commands
-
-- (task)
 - (task)
 
 ## Write Some Code
+- (task)
 
-- (task)
-- (task)
 
 ## What Next
 
+
+- to incorporate: https://www.joshwcomeau.com/blog/hands-free-coding/
 

@@ -6,9 +6,11 @@ layout: content
 
 My cursorless notes dump so far:
 - Official [documentation](https://www.cursorless.org/docs/)
-- `please` word: search the command pallet for that word ￼
-<!-- - Cursorless [cheat sheet](file:///C:/Users/ASchneiderman/.cursorless/cheatsheet.html) -->
+- `cursor lesscheat cheat` for a list of commands
 - cursorless [katas](https://github.com/Will-Sommers/cursorless-katas)
+
+- `please` word: search the command pallet for that word ￼
+
 
  - https://jacobegner.blogspot.com/2023/02/talon-voice-and-cursorless-notes.html
  - Re deleting parens, it’s “chuck bounds”, and there’s no doc for it because it’s just a combination of an action with a scope type
@@ -17,6 +19,7 @@ My cursorless notes dump so far:
 
 
 - to replace slashes w backslashes: use take blue/whatever slash to take the first one, cursor more tenth to select the next ten and then say backslash
+
 
 user.vscode("some vs code cmd from cmd pallet")
 
@@ -32,7 +35,3 @@ pre every line block
 
 cursorless snippets: https://github.com/pokey/dotfiles/tree/develop/cursorless-snippets
 
-```
-take: select    chuck: delete   change: move cursor and delete
-carve: cut      paste too
-```
