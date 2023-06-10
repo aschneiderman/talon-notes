@@ -7,7 +7,7 @@ image: hand-paid-cans-36464-pxh2.jpg
 <h1>How to Switch from Dragon to Talon</h1>
 
 
-Aka my notes dump on switching from Dragon  + Vocola to Talon, from installation through [scripting](pages/scripting/scripting-talon.html), plus some [links](pages/help/links.html); for help say `help help`
+Aka my notes dump on switching from Dragon  + Vocola to Talon, from installation to editing via  [cursorless](pages/basics-write/cursorless.html) to  [scripting](pages/scripting/scripting-talon.html), plus some [links](pages/help/links.html); for help say `help help`
 
 ## [Get Set Up](pages/install/get-setup.html)
 
