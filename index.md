@@ -9,12 +9,22 @@ image: hand-paid-cans-36464-pxh2.jpg
 
 Aka my notes dump on switching from Dragon  + Vocola to Talon, from installation to editing via  [cursorless](pages/basics-write/cursorless.html) to  [scripting](pages/scripting/scripting-talon.html), plus some [links](pages/help/links.html); for help say `help help`
 
-## [Get Set Up](pages/install/get-setup.html)
+stuff I'm learning
+- hash: #
+- talon open log
 
+stuff to figure out
+- moving a line up/down
+- adding a slash when dictating 
+- all of the colors when using cursorless
+- go to a line
+- open the error log by voice
 
+Get Started
+- [Get Set Up](pages/install/get-setup.html)
+- Hello there: talon wake, talon sleep
 
-## Write Some Words
-Hello there: talon wake, talon sleep
+Write Some Words
 
 Say Some Words
 - dictation mode, command mode
