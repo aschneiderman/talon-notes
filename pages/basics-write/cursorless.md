@@ -13,6 +13,8 @@ Getting Started:
 - Say `cursorless cheatsheet` for a list of commands, options, etc
 - Learn by practicing cursorless [katas](https://github.com/Will-Sommers/cursorless-katas)
 
+[https://jacobegner.blogspot.com/2023/02/talon-voice-and-cursorless-notes.html](https://jacobegner.blogspot.com/2023/02/talon-voice-and-cursorless-notes.html)
+
 And with the draft commands, you can essentially turn cursorless into your DragonPad -- your test editor for Slack, email, etc.
 ```
 
