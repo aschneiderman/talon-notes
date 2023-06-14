@@ -39,6 +39,46 @@ draft submit:
     
 - [Short video](https://www.youtube.com/watch?v=U6Q9qjSIVQg) and [meetup](https://www.youtube.com/watch?v=w-LxcO4Er0c) of drafts in action
 
+change <TARGET>" eg: change blue air Deletes the token containing letter 'a' with a blue hat then places your cursor where the token had been
+
+From docs, on rows:
+
+The word "row" followed by a number can be used to refer to a line by its line number. Note that the line numbers are modulo 100, meaning that you only say the last two digits of the line number. Also note that the line must be visible within the viewport.
+
+"chuck row twenty four"
+"post row eighty nine"
+"pour row eleven"
+"up <number>" / "down <number>"​
+
+The word "up" or "down" followed by a number can be used to refer to the line that is <number> lines above or below the cursor. The line may be outside of the viewport. In the case of multiple selections, this mark only refers to the line relative to the primary selection. You can turn on relative line numbers in the VSCode settings to make these marks easier to use.
+
+"copy up one"
+
+The word "line" can be used to expand a target to refer to entire lines rather than individual tokens:
+
+eg: take line [blue] air Selects the line including the token containing letter 'a' with a blue hat.
+
+"block"​
+
+The "block" modifier expands to above and below the target to select lines until an empty line is reached.
+
+"take block"
+"take block <TARGET>"
+
+eginning or end of the line, respectively.
+
+"take head": select from the cursor the start of the line
+"take tail": select from the cursor to the end of the line
+"take head air": selects the mark through to start of the line
+"take tail air": selects the mark through to the end of the line
+
+
+The "phones" command can be used to cycle through homophones for a given target. For example, if there were a hat on the h in where, you could say "phones harp" to change it to wear.
+
+"phones <TARGET>"
+eg:
+
+# "phones air"
 
 Other stuff
 - `please` word: search the command pallet for that word ￼
