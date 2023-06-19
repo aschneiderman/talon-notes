@@ -17,25 +17,14 @@ Getting Started:
 
 And with the draft commands, you can essentially turn cursorless into your DragonPad -- your test editor for Slack, email, etc.
 ```
-
-draft (this | dis):
-    user.draft_editor_open()
-draft (all | file):
-    edit.select_all()
-    user.draft_editor_open()
-draft line:
-    edit.select_line()
-    user.draft_editor_open()
-draft top:
-    edit.extend_file_start()
-    user.draft_editor_open()
-draft bottom:
-    edit.extend_file_end()
-    user.draft_editor_open()
-
-draft submit:
-    user.draft_editor_paste_last()
+- draft this, all | file, line, top, bottom 
+- submit
 ```
+
+
+{taking between 2 targets}
+
+
     
 - [Short video](https://www.youtube.com/watch?v=U6Q9qjSIVQg) and [meetup](https://www.youtube.com/watch?v=w-LxcO4Er0c) of drafts in action
 
