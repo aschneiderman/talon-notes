@@ -10,7 +10,8 @@ image: hand-paid-cans-36464-pxh2.jpg
 Aka my notes dump on switching from Dragon  + Vocola to Talon, from installation to editing via  [cursorless](pages/basics-write/cursorless.html) to  [scripting](pages/scripting/scripting-talon.html), plus some [links](pages/help/links.html); for help say `help help`
 
 stuff I'm learning
-- hash: #
+- Rango: hints on/off
+- hash: # (what for slash question)
 - talon open log
 
 stuff to figure out
