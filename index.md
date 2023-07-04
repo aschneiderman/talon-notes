@@ -4,22 +4,24 @@ layout: content
 image: hand-paid-cans-36464-pxh2.jpg
 ---
 
-<h1>How to Switch from Dragon to Talon</h1>
+<h1>How to Switch from Dragon to Talon</h1d>
 
 
-Aka my notes dump on switching from Dragon  + Vocola to Talon, from installation to editing via  [cursorless](pages/basics-write/cursorless.html) to  [scripting](pages/scripting/scripting-talon.html), plus some [links](pages/help/links.html); for help say `help help`
+Aka my notes dump on switching from Dragon  + Vocola to Talon, from installation to [practicing the basics](https://chaosparrot.github.io/talon_practice/) editing via  [cursorless](pages/basics-write/cursorless.html) to  [scripting](pages/scripting/scripting-talon.html), plus some [links](pages/help/links.html); for help say `help help`
 
 stuff I'm learning
+- talon open log
 - Rango: hints on/off
 - hash: # (what for slash question)
-- talon open log
 
-stuff to figure out
-- moving a line up/down
 - adding a slash when dictating 
 - all of the colors when using cursorless
-- go to a line
-- open the error log by voice
+Document
+- delete several lines
+- open spaceabove line
+
+to add: 
+
 
 Get Started
 - [Get Set Up](pages/install/get-setup.html)
