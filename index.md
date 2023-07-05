@@ -4,23 +4,32 @@ layout: content
 image: hand-paid-cans-36464-pxh2.jpg
 ---
 
-<h1>How to Switch from Dragon to Talon</h1d>
+<h1>How to Switch from Dragon to Talon</h1>
 
 
-Aka my notes dump on switching from Dragon  + Vocola to Talon, from installation to [practicing the basics](https://chaosparrot.github.io/talon_practice/) editing via  [cursorless](pages/basics-write/cursorless.html) to  [scripting](pages/scripting/scripting-talon.html), plus some [links](pages/help/links.html); for help say `help help`
+Aka my notes dump on switching from Dragon  + Vocola to Talon, from installation to [practicing the basics](https://chaosparrot.github.io/talon_practice/) editing via  [cursorless](pages/basics-write/cursorless.html) (`cursorless cheat sheet`)to  [scripting](pages/scripting/scripting-talon.html), plus some [links](pages/help/links.html); for help say `help help`
 
-stuff I'm learning
+to create:
+- next window n
+- start talon: 
+  - learns command for closing terminal (where to document?)
+  - cd C:\Users\ASchneiderman\Documents\GitHub\talon-notes
+  - bundle exec jekyll serve
+- commands for starting outlook, GitHub; it can't be using  launch
+
+to research:
+- visual studio code: terminal commands, link for builtin visual studio code commands
+- cursorless: delete several lines
+- all of the colors when using cursorless
+- open spaceabove line
+
+to memorize:
+- go way up slash down
 - talon open log
 - Rango: hints on/off
 - hash: # (what for slash question)
 
-- adding a slash when dictating 
-- all of the colors when using cursorless
-Document
-- delete several lines
-- open spaceabove line
 
-to add: 
 
 
 Get Started
