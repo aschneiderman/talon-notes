@@ -4,10 +4,17 @@ layout: content
 image: hand-paid-cans-36464-pxh2.jpg
 ---
 
-<h1>How to Switch from Dragon to Talon</h1>
+# How to Switch from Dragon to Talon
 
 
 Aka my notes dump on switching from Dragon  + Vocola to Talon, from installation to [practicing the basics](https://chaosparrot.github.io/talon_practice/) editing via  [cursorless](pages/basics-write/cursorless.html) (`cursorless cheat sheet`)to  [scripting](pages/scripting/scripting-talon.html), plus some [links](pages/help/links.html); for help say `help help`
+
+## up next: mastering cursor less, using NEA and other organization notes
+
+Advantages: 
+- Don't have to worry about learning how to navigate (()), etcetera
+- Get some real work done using Talon
+
 
 to create:
 - next window n
@@ -24,11 +31,11 @@ to research:
 - open spaceabove line
 
 to memorize:
-- go way up slash down
+   go way up slash down
 - talon open log
 - Rango: hints on/off
 - hash: # (what for slash question)
-
+- focus, to get list of windows
 
 
 
