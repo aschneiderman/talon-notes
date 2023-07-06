@@ -36,6 +36,7 @@ to memorize:
 - Rango: hints on/off
 - hash: # (what for slash question)
 - focus, to get list of windows
+- Capitalizing as you are spelling an acronym: ship air bat cap
 
 
 
