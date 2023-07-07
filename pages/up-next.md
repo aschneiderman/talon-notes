@@ -1,18 +1,28 @@
 ---
+title: Up Next
 layout: content
 image: hand-paid-cans-36464-pxh2.jpg
 ---
 
+To start my documentation: launch start, start Talon notes
 
-Aka my notes dump on switching from Dragon  + Vocola to Talon, from installation to [practicing the basics](https://chaosparrot.github.io/talon_practice/) editing via  [cursorless](pages/basics-write/cursorless.html) (`cursorless cheat sheet`)to  [scripting](pages/scripting/scripting-talon.html), plus some [links](pages/help/links.html); for help say `help help`
+  Up next: mastering cursor less, using organization notes. Advantages:
+- Don't have to worry about learning how to navigate (()), etcetera
+- Get some real work done using Talon
 
-To memorize:
-   go way up slash down
-- talon open log
-- Rango: hints on/off
-- hash: # (what for slash question)
-- focus, to get list of windows
-- Capitalizing as you are spelling an acronym: ship air bat cap
+- to incorporate: https://www.joshwcomeau.com/blog/hands-free-coding/
+
+to create:
+- next window n
+- commands for starting outlook, GitHub; it can't be using  launch
+
+to research:
+- visual studio code: terminal commands, link for builtin visual studio code commands
+- cursorless: delete several lines
+- all of the colors when using cursorless
+- open spaceabove line
+
+
 
 
 
@@ -57,7 +67,7 @@ navigate some text:
   - how to turn off the dots with cursorless
 - https://github.com/tararo5ys/dense-mouse-grid/blob/dense_mouse_grid_2/dense_mouse_grid/README.md
 - phones:  select homophone
-
+ c 
 ## Browse the Web
 
 - (task)
@@ -77,17 +87,4 @@ navigate some text:
   - help active will display the available commands for the active application. navigate help using the displayed numbers. e.g., help one one or help eleven.  help next, help previous, go to the next or previous page of help items if there are a lot, help close (see also help help)
   - command history: the last few commands as Talon understood them
   - Generic editing commands: https://github.com/knausj85/knausj_talon/blob/main/core/edit/edit.talon
-
-
-## Make My Own Commands
-- (task)
-
-## Write Some Code
-- (task)
-
-
-## What Next
-
-
-- to incorporate: https://www.joshwcomeau.com/blog/hands-free-coding/
 
