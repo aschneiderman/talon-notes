@@ -11,8 +11,10 @@ To memorize:
 - talon open log
 - Rango: hints on/off
 - hash: # (what for slash question)
+- Instead of "backspace", I say "junk". "Delete" becomes "dell". Arrow keys are prefixed with the word "go" -- go left.
 - focus, to get list of windows
 - Capitalizing as you are spelling an acronym: ship air bat cap
+
 
 
 

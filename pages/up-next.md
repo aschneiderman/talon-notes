@@ -4,87 +4,74 @@ layout: content
 image: hand-paid-cans-36464-pxh2.jpg
 ---
 
-To start my documentation: launch start, start Talon notes
+NOTE: for Talon notes server: launch start, start Talon notes
 
-  Up next: mastering cursor less, using organization notes. Advantages:
-- Don't have to worry about learning how to navigate (()), etcetera
-- Get some real work done using Talon
+## Basics
 
-- to incorporate: https://www.joshwcomeau.com/blog/hands-free-coding/
+Outlook:
+- My Vocola commands: reply, delete mail, what others?
+- Ask: why three an?
+- Core editing commands: deleting words, moving by words, home
+	- sentence hello world”
+	- go up fifth will go up five lines. Try saying e.g. select up third
+	- go right, go right fifth, the word right, go line end/start, escape Backspace, go way up
+	- If I wanted to write the number 1000, I would say one zero third, to repeat the 0 character 3 times.
+	- copy all, delete = backspace, clear line, clear word left
+-  Generic [editing commands](https://github.com/knausj85/knausj_talon/blob/main/core/edit/edit.talon)
 
-to create:
-- next window n
-- commands for starting outlook, GitHub; it can't be using  launch
+GitHub Desktop:
+- registry.decls.apps, to get name -- also name for Windows Explorer, maybe command line?
+- Any other Vocola commands?
 
-to research:
-- visual studio code: terminal commands, link for builtin visual studio code commands
-- cursorless: delete several lines
-- all of the colors when using cursorless
-- open spaceabove line
-
-
-
-
-
-Get Started
-- [Get Set Up](pages/install/get-setup.html)
-- Hello there: talon wake, talon sleep
-
-Write Some Words
-
-Say Some Words
-- dictation mode, command mode
-- say/phrase ___, word <a-word>
-- dictation mode: scratch that, press for keys
-
-format some words:
--  title my little pony
--  string, camel, snake (underscores), smash ( no space)
-- select that, format selection title
-- cap Apple,   cap That
-- block or <language> block for creating a new md code block
-
-
-Say Some  [Letters](basics-write/Alphabet.html), or  `help alphabet`
--  spell that -- e.g., spell that title trap air look odd near (title: capitalize)
--  press shift trap air, press control  sun
--  capitalize letters by prefixing them with “ship”. “ship drum” will output D instead of d.
--  If I wanted to write the number 1000, I would say one zero third, to repeat the 0 character 3 times.
-
-navigate some text:
-- go right, go right fifth, the word right, go line end/start, escape Backspace, go way up
-- tab (open | new), tab last, tab next, tab close, tab (reopen|restore), go tab <number>
-- go up fifth will go up five lines. Try saying e.g. select up third to hit shift-up three times
--  with dictation: scratch that, with command: scratch that, undo that, undo that nine times
-- custom vocabulary: in common file, settings/additional-words.CSV
-- https://tararoys.github.io/Getting-Started-With-Dictation-Mode.html
-
-
-## Correct Some Words
--  copy all, delete = backspace, clear line, clear word left
-- I believe that is "words_to_replace.csv" in knausj. If you're using knausj, just say "customize words to replace" and the csv file will pop up
-- Get comfortable with [cursorless](basics-write/cursorless.html)
-  - how to turn off the dots with cursorless
-- https://github.com/tararo5ys/dense-mouse-grid/blob/dense_mouse_grid_2/dense_mouse_grid/README.md
-- phones:  select homophone
- c 
-## Browse the Web
-
-- (task)
-- "copy address" in Rango copies the url. I would check how it's implemented there
-
-## Get Around My Desktop,   My Email Program, Etc.
-- launch Internet Explorer
-- focus chrome
+Windows Explorer:
+- App name
+- Vocola commands
 - running list         (see all active applications),  running hide 
 -  super sun: search bar
-- https://tararoys.github.io/Navigating-around-the-windows-operating-system.html
-- https://tararoys.github.io/Getting-Started-With-Coding-by-Voice.html
+-  say ‘snap internet explorer left” it will snap the internet explorer window to the left half of the screen. And if I say ‘snap right’ wit will snap whatever window I have selected to the right half of the screen. Knausj_talon has 25 knausj_talon snap positions that you can snap windows, and there isn’t a way to look them up short of looking at them on line 119 of file window_snap.py in the knausj talon source code. I personally use only five of them of them. “snap left” “snap right” “snap top” “snap bottom” “snap fullscreen”
+-  The shortcut I use most commonly is ‘minimize all windows’, which I can do with the command “super drum” to press the keyboard shortcut ‘windows d’ Then I use ‘ctrl-alt-tab’ to maximize the apps I want to work with again
 
-- (task)
-- (task)
-- Find More Commands
-  - help active will display the available commands for the active application. navigate help using the displayed numbers. e.g., help one one or help eleven.  help next, help previous, go to the next or previous page of help items if there are a lot, help close (see also help help)
-  - command history: the last few commands as Talon understood them
-  - Generic editing commands: https://github.com/knausj85/knausj_talon/blob/main/core/edit/edit.talon
+Global commands:
+- Vocola: copy switch, save reload, any others?
 
+Mouse
+- [Dense Mouse Grid](https://github.com/tararoys/dense-mouse-grid), [Video](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi71e-axf7_AhUYGFkFHRHcCeUQwqsBegQIDRAG&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpaWx7bF_IH8&usg=AOvVaw0x_KpiDIbmwRWTkdw9kdN9&opi=89978449)
+
+Adding Words, Editing Words
+- To add words:
+- To edit words:
+-  custom vocabulary: in common file, settings/additional-words.CSV
+-  I believe that is "words_to_replace.csv" in knausj. If you're using knausj, just say "customize words to replace" and the csv file will pop up
+- **Create commands** to back up add, edit words, etc 
+- if I say "check out my site", do I mean site or sight? Or possibly cite?? To resolve these ambiguities, Talon includes a phones command
+- help context” This pop-up will show all the modules Talon has loaded. It will show both active and inactive, but the active ones will be marked. help active This pop-up will show only the active modules,
+- help <module name>”, e.g., “help git” This view shows commands for a given module. It can be accessed either via “help context” then “help <module name>”, or directly by “help <module name>”.
+
+
+
+## Outlook: Level Up
+- Store clients in ____
+- Being able to pick names with a word
+	- Email: email addresses, hi
+	- Calendar: Title, email addresses
+
+
+## Cursorless: Basics
+- Explore better colors
+- **Focus on learning it**: using client notes, notes
+- block or <language> block for creating a new md code block
+- Delete several lines -- equiv of grab lines and kill 1
+
+## Scripting: Basics
+- visual studio code: terminal commands
+- Builtin visual studio code commands: save as?
+- Vocola commands 
+- "copy address" in Rango copies the url. I would check how it's implemented there
+
+## Rango
+- "copy address" in Rango copies the url
+
+## Home Stretch
+- next window n
+- commands for starting outlook, GitHub; it can't be using  launch
+- incorporate: [https://www.joshwcomeau.com/blog/hands-free-coding/](https://www.joshwcomeau.com/blog/hands-free-coding/)
