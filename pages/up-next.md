@@ -10,25 +10,25 @@ NOTE: for Talon notes server: launch start, start Talon notes
 
 ### Outlook
 - My Vocola commands: reply, delete mail, what others?
-- Ask: why three an?
 - Core editing commands: deleting words, moving by words, home
-	- sentence hello world”
+	- sentence hello world
 	- go up fifth will go up five lines. Try saying e.g. select up third
 	- go right, go right fifth, the word right, go line end/start, escape Backspace, go way up
 	- If I wanted to write the number 1000, I would say one zero third, to repeat the 0 character 3 times.
 	- copy all, delete = backspace, clear line, clear word left
 -  Generic [editing commands](https://github.com/knausj85/knausj_talon/blob/main/core/edit/edit.talon)
 -  [practice basics](https://chaosparrot.github.io/talon_practice/)
+-  Ask: why three an?
 
 ### GitHub Desktop
 - registry.decls.apps, to get name -- also name for Windows Explorer, maybe command line?
 - Any other Vocola commands?
 
-### Windows Explorer
+### Windows Explorer, Windows Management
 - App name
 	- app: windows_explorer
 	- app: windows_file_browser
-- Vuilt in commands: [talon](https://github.com/knausj85/knausj_talon/blob/main/apps/windows_explorer/windows_explorer.talon), [python](https://github.com/knausj85/knausj_talon/blob/main/apps/windows_explorer/windows_explorer.py)
+- Built in commands: [talon](https://github.com/knausj85/knausj_talon/blob/main/apps/windows_explorer/windows_explorer.talon), [python](https://github.com/knausj85/knausj_talon/blob/main/apps/windows_explorer/windows_explorer.py)
 - Vocola commands
 - running list         (see all active applications),  running hide 
 -  super sun: search bar
@@ -39,11 +39,11 @@ NOTE: for Talon notes server: launch start, start Talon notes
 ### Global commands
 - Vocola: copy switch, save reload, any others?
 
-Mouse
+### Mouse
 - [Dense Mouse Grid](https://github.com/tararoys/dense-mouse-grid), [Video](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi71e-axf7_AhUYGFkFHRHcCeUQwqsBegQIDRAG&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpaWx7bF_IH8&usg=AOvVaw0x_KpiDIbmwRWTkdw9kdN9&opi=89978449)
 - [Flex mouse grid](https://github.com/brollin/flex-mouse-grid)
 
-Adding Words, Editing Words
+### Adding Words, Editing Words
 - To add words:
 - To edit words:
 -  custom vocabulary: in common file, settings/additional-words.CSV
@@ -56,20 +56,20 @@ Adding Words, Editing Words
 
 
 
-## Outlook: Level Up
+### Outlook: Level Up
 - Store clients in ____
 - Being able to pick names with a word
 	- Email: email addresses, hi
 	- Calendar: Title, email addresses
 
 
-## Cursorless: Basics
+### Cursorless: Basics
 - Explore better colors
 - **Focus on learning it**: using client notes, notes
 - block or <language> block for creating a new md code block
 - Delete several lines -- equiv of grab lines and kill 1
 
-## Scripting: Basics
+### Scripting: Basics
 - visual studio code: terminal commands
 - Builtin visual studio code commands: save as?
 - Wiki
@@ -79,12 +79,12 @@ Adding Words, Editing Words
 - Vocola commands 
 - "copy address" in Rango copies the url. I would check how it's implemented there
 
-## Rango
+### Rango
 - [Documentation](https://github.com/david-tejada/rango)
 - "copy address" in Rango copies the url
 - with knausj you can save websites in a file and then open them with "open website name". You can open the file with customize websites
 
-## Home Stretch
+### Home Stretch
 - next window n
 - commands for starting outlook, GitHub; it can't be using  launch
 - incorporate: [https://www.joshwcomeau.com/blog/hands-free-coding/](https://www.joshwcomeau.com/blog/hands-free-coding/)
