@@ -18,6 +18,7 @@ Outlook:
 	- If I wanted to write the number 1000, I would say one zero third, to repeat the 0 character 3 times.
 	- copy all, delete = backspace, clear line, clear word left
 -  Generic [editing commands](https://github.com/knausj85/knausj_talon/blob/main/core/edit/edit.talon)
+-  [practice basics](https://chaosparrot.github.io/talon_practice/)
 
 GitHub Desktop:
 - registry.decls.apps, to get name -- also name for Windows Explorer, maybe command line?
@@ -42,6 +43,7 @@ Adding Words, Editing Words
 - To edit words:
 -  custom vocabulary: in common file, settings/additional-words.CSV
 -  I believe that is "words_to_replace.csv" in knausj. If you're using knausj, just say "customize words to replace" and the csv file will pop up
+-  [My notes](https://aschneiderman.github.io/talon-notes/pages/basics-write/writing.html) on replacing etc, plus [these notes](https://aschneiderman.github.io/talon-notes/pages/basics-write/correct-that.html)
 - **Create commands** to back up add, edit words, etc 
 - if I say "check out my site", do I mean site or sight? Or possibly cite?? To resolve these ambiguities, Talon includes a phones command
 - help context” This pop-up will show all the modules Talon has loaded. It will show both active and inactive, but the active ones will be marked. help active This pop-up will show only the active modules,
@@ -69,7 +71,9 @@ Adding Words, Editing Words
 - "copy address" in Rango copies the url. I would check how it's implemented there
 
 ## Rango
+- [Documentation](https://github.com/david-tejada/rango)
 - "copy address" in Rango copies the url
+- with knausj you can save websites in a file and then open them with "open website name". You can open the file with customize websites
 
 ## Home Stretch
 - next window n
