@@ -8,7 +8,7 @@ NOTE: for Talon notes server: launch start, start Talon notes
 
 ## Basics
 
-Outlook:
+### Outlook
 - My Vocola commands: reply, delete mail, what others?
 - Ask: why three an?
 - Core editing commands: deleting words, moving by words, home
@@ -20,23 +20,28 @@ Outlook:
 -  Generic [editing commands](https://github.com/knausj85/knausj_talon/blob/main/core/edit/edit.talon)
 -  [practice basics](https://chaosparrot.github.io/talon_practice/)
 
-GitHub Desktop:
+### GitHub Desktop
 - registry.decls.apps, to get name -- also name for Windows Explorer, maybe command line?
 - Any other Vocola commands?
 
-Windows Explorer:
+### Windows Explorer
 - App name
+	- app: windows_explorer
+	- app: windows_file_browser
+- Vuilt in commands: [talon](https://github.com/knausj85/knausj_talon/blob/main/apps/windows_explorer/windows_explorer.talon), [python](https://github.com/knausj85/knausj_talon/blob/main/apps/windows_explorer/windows_explorer.py)
 - Vocola commands
 - running list         (see all active applications),  running hide 
 -  super sun: search bar
 -  say ‘snap internet explorer left” it will snap the internet explorer window to the left half of the screen. And if I say ‘snap right’ wit will snap whatever window I have selected to the right half of the screen. Knausj_talon has 25 knausj_talon snap positions that you can snap windows, and there isn’t a way to look them up short of looking at them on line 119 of file window_snap.py in the knausj talon source code. I personally use only five of them of them. “snap left” “snap right” “snap top” “snap bottom” “snap fullscreen”
+-  Snap commands: [talon](https://github.com/knausj85/knausj_talon/blob/main/core/windows_and_tabs/window_management.talon), [python](https://github.com/knausj85/knausj_talon/blob/main/core/windows_and_tabs/window_snap.py)
 -  The shortcut I use most commonly is ‘minimize all windows’, which I can do with the command “super drum” to press the keyboard shortcut ‘windows d’ Then I use ‘ctrl-alt-tab’ to maximize the apps I want to work with again
 
-Global commands:
+### Global commands
 - Vocola: copy switch, save reload, any others?
 
 Mouse
 - [Dense Mouse Grid](https://github.com/tararoys/dense-mouse-grid), [Video](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi71e-axf7_AhUYGFkFHRHcCeUQwqsBegQIDRAG&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpaWx7bF_IH8&usg=AOvVaw0x_KpiDIbmwRWTkdw9kdN9&opi=89978449)
+- [Flex mouse grid](https://github.com/brollin/flex-mouse-grid)
 
 Adding Words, Editing Words
 - To add words:
@@ -67,6 +72,10 @@ Adding Words, Editing Words
 ## Scripting: Basics
 - visual studio code: terminal commands
 - Builtin visual studio code commands: save as?
+- Wiki
+	-  [getting started w scripting](https://talon.wiki/unofficial_talon_docs/)
+	-  Using [key command](https://talon.wiki/key_action/)
+	-  Official [scripting docs](https://talonvoice.com/docs/index.html#document-talon_files)
 - Vocola commands 
 - "copy address" in Rango copies the url. I would check how it's implemented there
 
@@ -79,3 +88,5 @@ Adding Words, Editing Words
 - next window n
 - commands for starting outlook, GitHub; it can't be using  launch
 - incorporate: [https://www.joshwcomeau.com/blog/hands-free-coding/](https://www.joshwcomeau.com/blog/hands-free-coding/)
+- Check out:
+	- Multidimensional [clipboard](https://github.com/FireChickenProductivity/Talon-Voice-multidimensional-clipboard) Lets you store and retrieve multiple text snippets from a Talon maintained clipboard
