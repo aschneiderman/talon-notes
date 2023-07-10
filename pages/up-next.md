@@ -44,7 +44,7 @@ NOTE: for Talon notes server: launch start, start Talon notes
 - [Flex mouse grid](https://github.com/brollin/flex-mouse-grid)
 
 ### Adding Words, Editing Words
-- To add words:
+- To add words:  You can toss AUV in additional_words.csv if you're using it often
 - To edit words:
 -  custom vocabulary: in common file, settings/additional-words.CSV
 -  I believe that is "words_to_replace.csv" in knausj. If you're using knausj, just say "customize words to replace" and the csv file will pop up
