@@ -4,21 +4,45 @@ layout: content
 image: hand-paid-cans-36464-pxh2.jpg
 ---
 
-NOTE: for Talon notes server: launch start, start Talon notes
-
-## Basics
+NOTE:  Talon notes server: launch start, start Talon notes
 
 ### Outlook
-- My Vocola commands: reply, delete mail, what others?
-- Core editing commands: deleting words, moving by words, home
-	- sentence hello world
-	- go up fifth will go up five lines. Try saying e.g. select up third
-	- go right, go right fifth, the word right, go line end/start, escape Backspace, go way up
-	- If I wanted to write the number 1000, I would say one zero third, to repeat the 0 character 3 times.
-	- copy all, delete = backspace, clear line, clear word left
--  Generic [editing commands](https://github.com/knausj85/knausj_talon/blob/main/core/edit/edit.talon)
--  [practice basics](https://chaosparrot.github.io/talon_practice/)
+1) Create simple command to send an email to  propose times
+- NOTE: because this is frustrating, do In small bursts
+
+- in clients.py,  create list w one value, make sure it works: I can read it in  outlook.talon
+
+- create list of dictionaries,  try to extract name or emails 
+
+- in outlook.talon: (client) time:
+new mail 
+(client)emails
+(client) cc emails
+subject: Potential Meeting Times
+
+Clean this up
+
+- go right, go right fifth, the word right, go line end/start, escape Backspace, go way up
+- sentence hello world
+- go up fifth, select up third
+- If I wanted to write the number 1000, I would say one zero third, to repeat the 0 character 3 times.
+- copy all, delete = backspace, clear line, clear word left
+-  Generic [editing commands](https://github.com/knausj85/knausj_talon/blob/main/core/edit/edit.talon), space [practice basics](https://chaosparrot.github.io/talon_practice/)
+- put in Basics:
 -  Ask: why three an?
+
+### Adding Words, Editing Words
+- To add words:  You can toss AUV in additional_words.csv if you're using it often
+- To edit words:
+-  custom vocabulary: in common file, settings/additional-words.CSV
+-  I believe that is "words_to_replace.csv" in knausj. If you're using knausj, just say "customize words to replace" and the csv file will pop up
+-  [My notes](https://aschneiderman.github.io/talon-notes/pages/basics-write/writing.html) on replacing etc, plus [these notes](https://aschneiderman.github.io/talon-notes/pages/basics-write/correct-that.html)
+- **Create commands** to back up add, edit words, etc 
+- if I say "check out my site", do I mean site or sight? Or possibly cite?? To resolve these ambiguities, Talon includes a phones command
+- help context” This pop-up will show all the modules Talon has loaded. It will show both active and inactive, but the active ones will be marked. help active This pop-up will show only the active modules,
+- help <module name>”, e.g., “help git” This view shows commands for a given module. It can be accessed either via “help context” then “help <module name>”, or directly by “help <module name>”.
+
+
 
 ### GitHub Desktop
 - registry.decls.apps, to get name -- also name for Windows Explorer, maybe command line?
@@ -42,17 +66,6 @@ NOTE: for Talon notes server: launch start, start Talon notes
 ### Mouse
 - [Dense Mouse Grid](https://github.com/tararoys/dense-mouse-grid), [Video](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi71e-axf7_AhUYGFkFHRHcCeUQwqsBegQIDRAG&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpaWx7bF_IH8&usg=AOvVaw0x_KpiDIbmwRWTkdw9kdN9&opi=89978449)
 - [Flex mouse grid](https://github.com/brollin/flex-mouse-grid)
-
-### Adding Words, Editing Words
-- To add words:  You can toss AUV in additional_words.csv if you're using it often
-- To edit words:
--  custom vocabulary: in common file, settings/additional-words.CSV
--  I believe that is "words_to_replace.csv" in knausj. If you're using knausj, just say "customize words to replace" and the csv file will pop up
--  [My notes](https://aschneiderman.github.io/talon-notes/pages/basics-write/writing.html) on replacing etc, plus [these notes](https://aschneiderman.github.io/talon-notes/pages/basics-write/correct-that.html)
-- **Create commands** to back up add, edit words, etc 
-- if I say "check out my site", do I mean site or sight? Or possibly cite?? To resolve these ambiguities, Talon includes a phones command
-- help context” This pop-up will show all the modules Talon has loaded. It will show both active and inactive, but the active ones will be marked. help active This pop-up will show only the active modules,
-- help <module name>”, e.g., “help git” This view shows commands for a given module. It can be accessed either via “help context” then “help <module name>”, or directly by “help <module name>”.
 
 
 
