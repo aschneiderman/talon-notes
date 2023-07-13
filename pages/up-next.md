@@ -6,6 +6,8 @@ image: hand-paid-cans-36464-pxh2.jpg
 
 NOTE:  Talon notes server: launch start, start Talon notes
 
+[Vision](where-next/vision.html)
+
 ### Outlook
 1) Create simple command to send an email to  propose times
 - NOTE: because this is frustrating, do In small bursts
