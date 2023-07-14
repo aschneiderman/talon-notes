@@ -4,11 +4,24 @@ layout: content
 image: hand-paid-cans-36464-pxh2.jpg
 ---
 
-NOTE:  Talon notes server: launch start, start Talon notes
+ To launch Talon notes server: `launch start`, start Talon notes
 
-[Vision](where-next/vision.html)
+#### Now
 
-### Outlook
+- `go line end/start`
+- `grave`: \`, `hash`: # 
+
+<br/>
+
+#### Up Next
+- How to change cursorless' colors,  so they stand out more on my screen
+- NEA: easily jump to Support, Word dashboard
+  
+#### Soon
+- Add formatter that adds a space before, plus one for a sentence with a space before it
+- How to capitalize an existing word?
+
+### Outlook: Command Chunk
 1) Create simple command to send an email to  propose times
 - NOTE: because this is frustrating, do In small bursts
 
@@ -18,7 +31,7 @@ NOTE:  Talon notes server: launch start, start Talon notes
 
 - in outlook.talon: (client) time:
 new mail 
-(client)emails
+(clients)emails
 (client) cc emails
 subject: Potential Meeting Times
 
@@ -31,7 +44,9 @@ Clean this up
 - copy all, delete = backspace, clear line, clear word left
 -  Generic [editing commands](https://github.com/knausj85/knausj_talon/blob/main/core/edit/edit.talon), space [practice basics](https://chaosparrot.github.io/talon_practice/)
 - put in Basics:
--  Ask: why three an?
+
+
+[Vision](where-next/vision.html)
 
 ### Adding Words, Editing Words
 - To add words:  You can toss AUV in additional_words.csv if you're using it often
@@ -41,13 +56,13 @@ Clean this up
 -  [My notes](https://aschneiderman.github.io/talon-notes/pages/basics-write/writing.html) on replacing etc, plus [these notes](https://aschneiderman.github.io/talon-notes/pages/basics-write/correct-that.html)
 - **Create commands** to back up add, edit words, etc 
 - if I say "check out my site", do I mean site or sight? Or possibly cite?? To resolve these ambiguities, Talon includes a phones command
+- i don't know if it is The Right Way, but I added mine to alternate_keys in keys.py: "do it": "enter"
 - help context” This pop-up will show all the modules Talon has loaded. It will show both active and inactive, but the active ones will be marked. help active This pop-up will show only the active modules,
 - help <module name>”, e.g., “help git” This view shows commands for a given module. It can be accessed either via “help context” then “help <module name>”, or directly by “help <module name>”.
 
 
 
 ### GitHub Desktop
-- registry.decls.apps, to get name -- also name for Windows Explorer, maybe command line?
 - Any other Vocola commands?
 
 ### Windows Explorer, Windows Management
@@ -56,6 +71,8 @@ Clean this up
 	- app: windows_file_browser
 - Built in commands: [talon](https://github.com/knausj85/knausj_talon/blob/main/apps/windows_explorer/windows_explorer.talon), [python](https://github.com/knausj85/knausj_talon/blob/main/apps/windows_explorer/windows_explorer.py)
 - Vocola commands
+- To get a list of all the commands you can use with focus/launch, from Talon's menu, choose Scripting, Console
+- Type `registry.lists['user.running'] `
 - running list         (see all active applications),  running hide 
 -  super sun: search bar
 -  say ‘snap internet explorer left” it will snap the internet explorer window to the left half of the screen. And if I say ‘snap right’ wit will snap whatever window I have selected to the right half of the screen. Knausj_talon has 25 knausj_talon snap positions that you can snap windows, and there isn’t a way to look them up short of looking at them on line 119 of file window_snap.py in the knausj talon source code. I personally use only five of them of them. “snap left” “snap right” “snap top” “snap bottom” “snap fullscreen”

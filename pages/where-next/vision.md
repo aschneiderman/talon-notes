@@ -1,12 +1,12 @@
 ---
-title:  'Vision: Where Next'
+title:  'Where Next'
 layout: content
 image: hand-paid-cans-36464-pxh2.jpg
 ---
 
 ## Goals and Objectives
 
-Game Goal: how do I make progress & find my mojo in the midst of forces of chaos?
+How do I make progress & find my mojo in the midst of forces of chaos?
 - trying to "level up" while trying not to drown in the day-to-day rush
 - getting out from feeling overwhelmed
 

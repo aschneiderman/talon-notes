@@ -4,6 +4,8 @@ layout: content
 # image: pencils-brushes-1043734-pxh.jpg
 ---
 
+To see the names of apps that are currently running, both for focus/launch and for the context header: `help scope`, then look under miscellaneous
+
 
 
 - zap <number>: key("backspace:{number}")
