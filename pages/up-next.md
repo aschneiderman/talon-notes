@@ -4,7 +4,7 @@ layout: content
 image: hand-paid-cans-36464-pxh2.jpg
 ---
 
- To launch Talon notes server: `launch start`, start Talon notes
+ To launch Talon notes server: `launch start`, start Talon notes.  For scripting: `talon open log`
 
 #### Now
 
@@ -14,8 +14,11 @@ image: hand-paid-cans-36464-pxh2.jpg
 <br/>
 
 #### Up Next
-- How to change cursorless' colors,  so they stand out more on my screen
 - NEA: easily jump to Support, Word dashboard
+- visual studio code commands (built in), basic cursorless
+  - example: command for settings
+- copy paste
+- edit global/code/etcetera: equivalent of edit command in Vocola 
   
 #### Soon
 - Add formatter that adds a space before, plus one for a sentence with a space before it

@@ -6,20 +6,23 @@ layout: content
 
 cursorless is Talon's killer app: a stunningly good editing package via VS Code.  
 
-Getting Started:
+### Up Next
+
+
+- draft this, all, file, line, top, bottom 
+- submit
+
+
+### Getting Started:
 - [Install](https://www.cursorless.org/docs/user/installation/) cursorless
 - Read the official [documentation](https://www.cursorless.org/docs/) and the [GitHub repo](https://github.com/cursorless-dev/cursorless)
-- Watch [video tutorials](https://www.youtube.com/watch?v=5mAzHGM2M0k&list=PLXv2sppxeoQZz49evjy4T0QJRIgc_JPqs)
 - Say `cursorless cheatsheet` for a list of commands, options, etc
+- Watch [video tutorials](https://www.youtube.com/watch?v=5mAzHGM2M0k&list=PLXv2sppxeoQZz49evjy4T0QJRIgc_JPqs)
 - Learn by practicing cursorless [katas](https://github.com/Will-Sommers/cursorless-katas)
+- Check out [https://jacobegner.blogspot.com/2023/02/talon-voice-and-cursorless-notes.html](https://jacobegner.blogspot.com/2023/02/talon-voice-and-cursorless-notes.html)
 
-[https://jacobegner.blogspot.com/2023/02/talon-voice-and-cursorless-notes.html](https://jacobegner.blogspot.com/2023/02/talon-voice-and-cursorless-notes.html)
 
 And with the draft commands, you can essentially turn cursorless into your DragonPad -- your test editor for Slack, email, etc.
-```
-- draft this, all | file, line, top, bottom 
-- submit
-```
 
 
 {taking between 2 targets}
