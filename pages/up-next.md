@@ -10,6 +10,19 @@ image: hand-paid-cans-36464-pxh2.jpg
 
 - `go line end/start`
 - `grave`: \`, `hash`: # 
+-  dense mouse grid:  on:`dense grid`, off: `grid close`  {doesn't seem to be working}
+
+https://tararoys.github.io/small_cheatsheet.html
+
+Assume I want to write the following: This is hello-world. What do I say?
+ `sentence this is over space kebab hello world`
+
+
+
+[talon hud](https://github.com/chaosparrot/talon_hud): can turn mic off
+
+- figure out how to make last window work the way you would expect in would in Visual Studio Code
+
 
 <br/>
 

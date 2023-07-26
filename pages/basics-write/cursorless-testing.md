@@ -16,7 +16,7 @@ For Contribution Acknowledgment Report: need mail merge template of Contribution
 This is a Bunch of Stuff, Which Will Make It Easier to Learn cursorlessas
 
 ## Generating the Letters
-- To generate an individual thank you, click “View Payment in Acknowledgment Report”, Then Generate Letters, Then Decide If Generate Letter Based on Assigned Template or Using One Template, mail merge template, name of export, and if should be marked as thanked; creates Word document
+- To generate an individual thank you, click “View Payment in Acknowledgment Report”, Then Generate Letters, Then Decide If Generate Letter Based on Assigned Template or Using One Template, mail merge template, name of export, and if should be marked as thanked; 1creates Word document
 - Mostly, you won’t want to do a one-off; instead, use the Contribution Acknowledgment Report.
 - If you’re going to use individual templates, don't forget to add the "Mail Merge Template" column to the report
 - And need the merge fields that are in your template

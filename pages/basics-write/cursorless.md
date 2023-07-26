@@ -9,10 +9,15 @@ cursorless is Talon's killer app: a stunningly good editing package via VS Code.
 Up Next:  draft this, all, file, line, top, bottom;  submit
 
 ### Selecting
-- 
+- row 7 and row 9
+- take air and bat and sun
+- take line fine, take block air
+- chuck 2 tokens air, take 3 lines green drum, chuck 3 char odd, take last 4 char each
+- NOTE: can walk words in camel formatting by using 'word'
 
 ### Actions
 - chuck: delete
+
 
 
 

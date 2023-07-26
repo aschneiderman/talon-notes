@@ -7,6 +7,10 @@ layout: content
 To see the names of apps that are currently running, both for focus/launch and for the context header: `help scope`, then look under miscellaneous
 
 
+mimic: to say a talon command:
+```
+hug <phrase>$:    mimic("chuck leading " + phrase)
+```
 
 - zap <number>: key("backspace:{number}")
 - workspace <number>: key("ctrl-{number}")
