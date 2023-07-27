@@ -4,13 +4,82 @@ layout: content
 image: hand-paid-cans-36464-pxh2.jpg
 ---
 
- To launch Talon notes server: `launch start`, start Talon notes.  For scripting: `talon open log`
-
-#### Now
-
+ To launch Talon notes: `launch start`, start Talon notes.  For scripting: `talon open log`. To memorize:
 - `go line end/start`
 - `grave`: \`, `hash`: # 
+
+##  Next Tasks
+
+topic links 
+
+copy paste
+
+### Groups
+- requests
+-  time zone 
+- hi
+- meeting invite 
+- emails 
+
+### NEA support tickets 
+- committees
+- report manager
+- searching help
+
+- status reports
+
+- searching help from a list of topics 
+
+- client notes (one doc)(prep for today tasks?)
+
+- markdown -- eg, converting lines to bullets
+
+- fix vs code so last window works 
+
+### zoom recordings 
+- extract from email?
+- (first test that pwd email contains works)
+
+### todays tasks
+simplest to do daily via talon 
+
+### Slack
+
+writing 
+add words, fix words (nea, fyi)
+sassy 
+How to capitalize an existing word?
+convert markdown to Word
+
+
+"edit commands" topic
+edit python 
+edit talon
+
+
+jira tickets 
+
+easier on vocal chords
+doing the exercises
+
+advanced writing 
+convert Word to markdown?
+
+getting mouse grid / dense mouse to work smoothly 
+
+
+
+
+
+
+
+
+
+
 -  dense mouse grid:  on:`dense grid`, off: `grid close`  {doesn't seem to be working}
+
+
+
 
 https://tararoys.github.io/small_cheatsheet.html
 
