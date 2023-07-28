@@ -57,26 +57,36 @@ edit python
 edit talon
 
 
-jira tickets 
-
-easier on vocal chords
-doing the exercises
-
-advanced writing 
-convert Word to markdown?
-
-getting mouse grid / dense mouse to work smoothly 
 
 
 
+### jira tickets 
 
-
-
-
-
-
-
+- [Flexible Mouse Grid](https://github.com/brollin/flex-mouse-grid) -- best mouse.  video demo of dense: https://youtu.be/paWx7bF_IH8
 -  dense mouse grid:  on:`dense grid`, off: `grid close`  {doesn't seem to be working}
+- Rango: https://github.com/david-tejada/rango
+
+### Voice Health
+- easier on vocal chords
+- doing the exercises
+
+### Advanced writing 
+- convert Word to markdown?
+- convert markdown to Word / Google docs?
+
+### Windows management
+Steal ideas from here:
+- https://github.com/lunixbochs/talon_wm
+- https://github.com/codecat555/talon-window-tweak
+
+
+
+
+
+
+
+
+
 
 
 
