@@ -10,9 +10,6 @@ image: hand-paid-cans-36464-pxh2.jpg
 
 ##  Next Tasks
 
-topic links 
-
-copy paste
 
 ### Groups
 - requests
@@ -20,6 +17,8 @@ copy paste
 - hi
 - meeting invite 
 - emails 
+
+topic links 
 
 ### NEA support tickets 
 - committees
@@ -65,6 +64,8 @@ edit talon
 - [Flexible Mouse Grid](https://github.com/brollin/flex-mouse-grid) -- best mouse.  video demo of dense: https://youtu.be/paWx7bF_IH8
 -  dense mouse grid:  on:`dense grid`, off: `grid close`  {doesn't seem to be working}
 - Rango: https://github.com/david-tejada/rango
+- My notes on issues caused by [bootstrap websites](https://github.com/aschneiderman/Voice-chrome-extensions/blob/main/understanding-websites/js-manipulate-bootstrap.txt)
+
 
 ### Voice Health
 - easier on vocal chords
@@ -85,7 +86,8 @@ Steal ideas from here:
 
 
 
-
+### Web Automation
+- My notes on issues caused by [bootstrap websites](https://github.com/aschneiderman/Voice-chrome-extensions/blob/main/understanding-websites/js-manipulate-bootstrap.txt)
 
 
 
