@@ -3,24 +3,17 @@ layout: content
 image: hand-paid-cans-36464-pxh2.jpg
 ---
 
-
-Aka my notes dump on switching from Dragon  + Vocola to Talon, from installation to [practicing the basics](https://chaosparrot.github.io/talon_practice/) editing via  [cursorless](pages/basics-write/cursorless.html) (`cursorless cheat sheet`)to  [scripting](pages/scripting/scripting-talon.html), plus some [links](pages/help/links.html); for help say `help help`
-
-To memorize:
-   go way up slash down
-- talon open log
-- Rango: hints on/off
-- hash: # (what for slash question)
-- Instead of "backspace", I say "junk". "Delete" becomes "dell". Arrow keys are prefixed with the word "go" -- go left.
-- focus, to get list of windows
-- Capitalizing as you are spelling an acronym: ship air bat cap
+My notes dump on switching from Dragon  + Vocola to Talon.  For help say `help help`
 
 
 
 
-Get Started
-- [Get Set Up](pages/install/get-setup.html)
-- Hello there: talon wake, talon sleep
+
+
+
+
+
+
 
 Write Some Words
 
@@ -93,3 +86,5 @@ navigate some text:
 
 - to incorporate: https://www.joshwcomeau.com/blog/hands-free-coding/
 
+
+- focus, to get list of windows

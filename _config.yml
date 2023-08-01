@@ -5,21 +5,15 @@ description:  Switching to Talon
 
 # Menu data for sitewide navigation
 navigation_links:
-  - name: Setting Up
-    link: 'about/'
-  - name: 'Basics'
-    link: ''
+  - name: 'Writing'
+    link: 'pages/writing/writing.html'
   - name: Cursorless
-    link: 'pages/basics-write/cursorless.html'
+    link: 'pages/writing/cursorless.html'
+  - name: Applications
+    link: 'pages/apps/applications.html'
   - name: Scripting
     link: 'pages/scripting/scripting-talon.html'
   - name: Up Next
     link: 'pages/up-next.html'
-  # - name: Strategies
-  #   link: 'strategies/'
-  # # - name: Blog
-  #   link: 'blog/'
-  # # - name: Links
-    # link: 'links'
-
-
+  
+  
