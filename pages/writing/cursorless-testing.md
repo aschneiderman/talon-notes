@@ -9,9 +9,10 @@
 - First you create Word mail me1rge template(s)
 - Then whenever you need to generate thank you letters, you do it, either from individual contribution or from the Contribution Acknowledgment Report (or the Attribution and Soft Credits Report)
 
-## (Word) Mail Merge Template 
+## (Word) Mail Merge 
 
-- t.- tFor Contribution Acknowledgment Report: need mail merge template of Contribution category
+
+- tFor Contribution Acknowledgment Report: need mail merge template of Contribution category
 
 This is a Bunch of Stuff, Which Will Make It Easier to Learn cursorlessas
 

@@ -8,6 +8,7 @@ cursorless is Talon's killer app: a stunningly good editing package via VS Code.
 
 
 
+
 ### Selecting
 - row 7 and row 9 (only say a row's last 2 digits)
 - take air and bat and sun
