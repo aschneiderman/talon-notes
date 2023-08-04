@@ -10,6 +10,12 @@ image: hand-paid-cans-36464-pxh2.jpg
 
 ##  Next Tasks
 
+### Prose
+
+- Adding words
+- Adding pronounciation
+- Do a bit of writing -- maybe responses to emails? -- at the end of each day?
+-  Try writing primarily in cursorless -- and "dictate a whole bunch, then error correct, instead of doing error correction after every sentence. just don't dictate so much you forget what the text was supposed to be when it's wrong"
 
 ### Groups
 - requests
@@ -50,10 +56,22 @@ sassy
 How to capitalize an existing word?
 convert markdown to Word
 
+https://github.com/talonhub/community/blob/main/apps/vscode/vscode.talon
 
-"edit commands" topic
-edit python 
-edit talon
+https://github.com/talonhub/community/blob/main/apps/windows_explorer/windows_explorer.talon
+
+https://github.com/talonhub/community/blob/main/apps/outlook/outlook_win.talon
+
+https://github.com/talonhub/community/blob/main/apps/slack/slack_win.talon
+
+https://github.com/talonhub/community/tree/main/core/vocabulary
+
+https://github.com/talonhub/community/blob/main/core/windows_and_tabs/window_management.talon
+
+For how to do csv files:
+https://github.com/talonhub/community/tree/main/core/app_switcher
+
+
 
 
 
