@@ -21,9 +21,14 @@ toolkit options
 
 ### Accuracy
 
+https://jacobegner.blogspot.com/2023/02/talon-voice-and-cursorless-notes.html
+
 https://whalequench.club/blog/2019/09/03/learning-to-speak-code.html
 
 https://tararoys.github.io/Getting-Started-With-Dictation-Mode.html
+
+
+what pokey and I do is to give it a new name that is easier to recognize. “van cake” -> vscode in additional_words.csv. this works with commands like “say”
 
 words_to_replace.csv” in knausj. If you’re using knausj, just say “customize words to replace” and the csv file will pop up
 
@@ -33,7 +38,15 @@ custom vocabulary: in common file, settings/additional-words.CSV
 
 Any word/phrase in additional_words will be highly ranked in recognition.
 
+
+You can add the names to additional_words.csv so they will be recognized by the engine. There are also commands for doing that automatically, just select the word and say "copy to vocab"
+
+
+I think it lands in additional words, so you should be able to reach it with `customize additional words`
+
 For example, I created a command for Outlook, “delete mail.” Dragon nails it every time, but unless I very clearly articulate the words, Talon gets it wrong reasonably often.
+
+you can do "talon open log" to open the talon log, then do "talon test expanding this" (with vscode focused) and see which command it recognizes
 
 
 is it possible your outlook context is not properly activating? help active would let you know if it is active or not
