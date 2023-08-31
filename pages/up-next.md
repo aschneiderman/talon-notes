@@ -10,6 +10,68 @@ image: hand-paid-cans-36464-pxh2.jpg
 
 ##  Next Tasks
 
+help context
+
+hud:
+https://github.com/chaosparrot/talon_hud
+
+for hud: head up show 
+toolkit options
+
+
+### Accuracy
+
+https://whalequench.club/blog/2019/09/03/learning-to-speak-code.html
+
+https://tararoys.github.io/Getting-Started-With-Dictation-Mode.html
+
+words_to_replace.csv” in knausj. If you’re using knausj, just say “customize words to replace” and the csv file will pop up
+
+To add words: You can toss AUV in additional_words.csv if you’re using it often
+To edit words:
+custom vocabulary: in common file, settings/additional-words.CSV
+
+Any word/phrase in additional_words will be highly ranked in recognition.
+
+For example, I created a command for Outlook, “delete mail.” Dragon nails it every time, but unless I very clearly articulate the words, Talon gets it wrong reasonably often.
+
+
+is it possible your outlook context is not properly activating? help active would let you know if it is active or not
+
+is your speech timeout set very low and the pause between "delete" and "mail" is long enough to split it?
+
+what does it get it wrong as? have you tried "save recordings" from the speech recognition menu to ensure the audio sounds sensible?
+
+Enable Save recordings and share an example of talon getting it wrong
+
+Increase Talon’s wait time. This has the disadvantage of making all commands react slower, but it can eliminate the cutoffs. Do this by adding a settings.talon file to your user directory with the following content:
+
+settings():
+    # minimum silence time (in seconds) before speech is cut off, default 0.3
+    speech.timeout = 0.4
+Start with the value of 0.4, just slightly higher than the default, and increase only if necessary.
+
+
+google:
+
+talon additional-words.CSV
+
+homophones:
+
+To resolve these ambiguities, Talon includes a phones command:
+
+I select the last word, "sight", and say the word "phones". A menu pops up, with a numbered list containing 3 possible spellings: cite, sight, and site. The third option is the one I want, so I say "pick 3"
+
+option shift left phones
+
+For example, if there were a hat on the h in where, you could say "phones harp" to change it to wear.
+
+"phones <TARGET>"
+eg:
+
+"phones air"
+"phones first word air"
+
 ### Prose
 
 - Adding words
