@@ -5,12 +5,15 @@ image: hand-paid-cans-36464-pxh2.jpg
 ---
 
  To launch Talon notes: `launch start`, start Talon notes.  For scripting: `talon open log`. To memorize:
+- `customize additional words`, `customize words to replace` (learn about abbreviations?)(copy to writing)
 - `go line end/start`
 - `grave`: \`, `hash`: # 
 
 ##  Next Tasks
+- Hi , names
+- client info
 
-help context
+- `launch start`, `start copy words`
 
 hud:
 https://github.com/chaosparrot/talon_hud
@@ -29,12 +32,8 @@ https://tararoys.github.io/Getting-Started-With-Dictation-Mode.html
 
 
 what pokey and I do is to give it a new name that is easier to recognize. “van cake” -> vscode in additional_words.csv. this works with commands like “say”
+  
 
-words_to_replace.csv” in knausj. If you’re using knausj, just say “customize words to replace” and the csv file will pop up
-
-To add words: You can toss AUV in additional_words.csv if you’re using it often
-To edit words:
-custom vocabulary: in common file, settings/additional-words.CSV
 
 Any word/phrase in additional_words will be highly ranked in recognition.
 
@@ -42,7 +41,6 @@ Any word/phrase in additional_words will be highly ranked in recognition.
 You can add the names to additional_words.csv so they will be recognized by the engine. There are also commands for doing that automatically, just select the word and say "copy to vocab"
 
 
-I think it lands in additional words, so you should be able to reach it with `customize additional words`
 
 For example, I created a command for Outlook, “delete mail.” Dragon nails it every time, but unless I very clearly articulate the words, Talon gets it wrong reasonably often.
 
