@@ -10,10 +10,11 @@ image: hand-paid-cans-36464-pxh2.jpg
 - `grave`: \`, `hash`: # 
 
 ##  Next Tasks
-- Hi , names
+- out look: sent items, deleted items
+- get hub: ad customize word for get hub, commands for commit to main, wich also does equivalent of push it
 - client info
 
-- `launch start`, `start copy words`
+- add command to backup customized words,: `launch start`, `start copy words`
 
 hud:
 https://github.com/chaosparrot/talon_hud
