@@ -1,10 +1,12 @@
-title: Talon for Dragon Users
+title: Talon for Ex-Dragons
 author: Anders Schneiderman
 email: your-email@domain.com
 description:  Switching to Talon
 
 # Menu data for sitewide navigation
 navigation_links:
+  - name: 'Setup'
+    link: 'pages/setup/setup.html'
   - name: 'Writing'
     link: 'pages/writing/writing.html'
   - name: Cursorless
