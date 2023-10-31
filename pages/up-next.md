@@ -6,24 +6,39 @@ image: hand-paid-cans-36464-pxh2.jpg
 
 Launch Talon notes: `launch start`, `start Talon notes`.  Scripting: `talon open log`
 - `customize additional words`, `customize words to replace` 
-- `grave`: \`, `hash`: # 
+- `grave`: \`, `hash`: #
+- `draft all` , `draft submit`
 
 
 
 ## This Week Punch List
 
 get fluent with emails
-- drafts
-- curserless: blue versus green
+- try reading an email to chipmunks
+- how to move, delete lines: move, paste, chuck
+- save it
+- revise my cursorsless page
+- curserless: blue versus green: cursorless settings
+blue:
+#089ad3
+
+green:
+#36B33F
+w3 [hex color picker](https://www.w3schools.com/colors/colors_picker.asp)
 - email addresses, including how to store main email and cc emails
 - how to say 's, space
 - command for markdown bullet, header
-- how to move, delete lines
 - sent items , deleted items
 - add command to backup customized words,: `launch start`, `start copy words`
 - homonyms, abbreviations
 - curserless: practice basic commands, grab the target plus two words
+- date command for email: Monday eleven one two
+- advice: use draft this if I know the message will be long
+- in cursor less: copy file
 
+
+things to play with
+- phones air and bat 
 
 get fluent with slack
 - handles
@@ -38,6 +53,12 @@ mouse grid
 if I have time
 - client info
 - fix save and reload so it waits for a second more
+- check out code for draft: draft submit stores in python variable
+- move start commands from global_commands (eg, start talon notes)
+- placeholder like blah, like in that
+- warming up my voice
+- quad wrap
+- clone arg every instance trap
 
 ##  Next Stuff
 
