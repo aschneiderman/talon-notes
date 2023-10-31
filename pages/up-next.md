@@ -4,17 +4,64 @@ layout: content
 image: hand-paid-cans-36464-pxh2.jpg
 ---
 
- To launch Talon notes: `launch start`, start Talon notes.  For scripting: `talon open log`. To memorize:
-- `customize additional words`, `customize words to replace` (learn about abbreviations?)(copy to writing)
-- `go line end/start`
+Launch Talon notes: `launch start`, `start Talon notes`.  Scripting: `talon open log`
+- `customize additional words`, `customize words to replace` 
 - `grave`: \`, `hash`: # 
 
-##  Next Tasks
-- out look: sent items, deleted items
-- get hub: ad customize word for get hub, commands for commit to main, wich also does equivalent of push it
-- client info
 
+
+## This Week Punch List
+
+get fluent with emails
+- drafts
+- curserless: blue versus green
+- email addresses, including how to store main email and cc emails
+- how to say 's, space
+- command for markdown bullet, header
+- how to move, delete lines
+- sent items , deleted items
 - add command to backup customized words,: `launch start`, `start copy words`
+- homonyms, abbreviations
+- curserless: practice basic commands, grab the target plus two words
+
+
+get fluent with slack
+- handles
+- emojis
+- being relaxed, annunciating my words, speaking in phrases
+
+hub
+- command for commit to main
+
+mouse grid
+
+if I have time
+- client info
+- fix save and reload so it waits for a second more
+
+##  Next Stuff
+
+
+how to check the talon log by voice
+
+rango talon
+
+
+in my main commands, at a set up file
+also enter it in my talon notes, on set up
+
+chrome-extension://lnemjdnjjofijemhdogofbpcedhgcpmb/onboarding.9f1b2119.html
+
+something weird going on with rango
+once I launch chrome, I seem to need to fiddle with it and fiddle with a new website before it shows up
+
+over the next couple of days, try playing with it and seen how it goes. also try reading the instructions again
+
+commands to add:
+chrome:
+address(in addition to address bar)
+
+
 
 hud:
 https://github.com/chaosparrot/talon_hud
