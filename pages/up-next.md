@@ -5,7 +5,7 @@ image: hand-paid-cans-36464-pxh2.jpg
 ---
 
 Launch Talon notes: `launch start`, `start Talon notes`.  Scripting: `talon open log`
-- `customize additional words`, `customize words to replace` 
+- `customize additional words`, `customize words to replace`, `launch GitHub desktop` 
 - `grave`: \`, `hash`: #
 - `draft all` , `draft submit`
 
@@ -14,9 +14,7 @@ Launch Talon notes: `launch start`, `start Talon notes`.  Scripting: `talon open
 ## This Week Punch List
 
 get fluent with emails
-- try reading an email to chipmunks
 - how to move, delete lines: move, paste, chuck
-- save it
 - revise my cursorsless page
 - curserless: blue versus green: cursorless settings
 blue:
@@ -35,6 +33,8 @@ w3 [hex color picker](https://www.w3schools.com/colors/colors_picker.asp)
 - date command for email: Monday eleven one two
 - advice: use draft this if I know the message will be long
 - in cursor less: copy file
+- documentation for scripts: using %USERPROFILE% so commands will work across multiple laptops/desktops
+- what commands can I use in dictation mode? for spaces, for periods, etc
 
 
 things to play with
