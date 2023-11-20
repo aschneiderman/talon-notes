@@ -11,6 +11,7 @@ mimic: to say a talon command:
 ```
 hug <phrase>$:    mimic("chuck leading " + phrase)
 ```
+To activate a Office ribbon menu,  instead of using alt, use f10: key fine ten.
 
 - zap <number>: key("backspace:{number}")
 - workspace <number>: key("ctrl-{number}")
