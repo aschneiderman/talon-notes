@@ -18,7 +18,8 @@ Launch Talon notes: `launch start`, `start Talon notes`.  Scripting: `talon open
 ## This Week Punch List
 - take versus highlight
 
-get fluent with emails
+
+get fluent with meetings
 - how to move, delete    move, paste, chuck
 - revise my cursorsless page
 - curserless: blue versus green: cursorless settings
