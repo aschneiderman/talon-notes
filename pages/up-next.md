@@ -8,13 +8,18 @@ Launch Talon notes: `launch start`, `start Talon notes`.  Scripting: `talon open
 - `customize additional words`, `customize words to replace`, `launch GitHub desktop` 
 - `grave`: \`, `hash`: #
 - `draft all` , `draft submit`
+- `launch outlook`
 
-
+- `cursorless help`, `cursorless cheat sheet`
+- `take 2 tokens`, `chuck 3 tokens air` , `take second next token air`, `take two tokens backward gust`, `take previous three lines`, `chuck 2 lines row 37`
+- `take 2 char each`
+- `move row 19`
 
 ## This Week Punch List
+- take versus highlight
 
 get fluent with emails
-- how to move, delete lines: move, paste, chuck
+- how to move, delete    move, paste, chuck
 - revise my cursorsless page
 - curserless: blue versus green: cursorless settings
 blue:
