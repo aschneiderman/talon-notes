@@ -17,3 +17,8 @@ Cursorless:
 - `Format Title at Red`
 
 - `launch outlook`
+
+
+## My Commands
+
+- edit chrome pie
