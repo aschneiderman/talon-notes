@@ -8,6 +8,7 @@ Launch Talon notes: `launch start`, `start Talon notes`.  Scripting: `talon open
 - `customize additional words`, `customize words to replace`, `launch GitHub desktop` 
 - `grave`: \`, `hash`: #
 - `draft top`, `draft all` , `submit` ( [demo](https://www.youtube.com/watch?v=U6Q9qjSIVQg)).
+- `check every Jira`
 
 Cursorless:
 - `cursorless help`, `cursorless cheat sheet`
