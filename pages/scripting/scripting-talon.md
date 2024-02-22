@@ -6,6 +6,7 @@ layout: content
 
 To see the names of apps that are currently running, both for focus/launch and for the context header: `help scope`, then look under miscellaneous
 
+key(end enter)
 
 mimic: to say a talon command:
 ```
