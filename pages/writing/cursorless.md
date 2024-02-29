@@ -6,19 +6,24 @@ layout: content
 
 cursorless is Talon's killer app: a stunningly good editing package via VS Code.  
 
+### Actions
+- take <TARGET>: 
+- bring: copy: `bring blue air`, `bring blue air to blue gust`
+- move: `move row 1`, `move blue air to green gust`
+- chuck: delete
+- change:  delete and move cursor to that location: 'change blue air' 
 
 
 
 ### Selecting
+- take line fine, take block air
 - row 7 and row 9 (only say a row's last 2 digits)
 - take air and bat and sun
-- take line fine, take block air
 - chuck 2 tokens air, take 3 lines green drum, chuck 3 chars odd, take 1 chars, take last 4 chars each
 - NOTE: can walk words in camel formatting by using 'word'
 
-### Actions
-- chuck: delete
-- change <TARGET>:  eg, 'change blue air' Deletes the token containing letter 'a' with a blue hat then places your cursor where the token had been
+
+
 
 ### To Research
 - using cursorless to lower case or title case a target
