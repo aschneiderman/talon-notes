@@ -6,6 +6,8 @@ layout: content
 
 cursorless is Talon's killer app: a stunningly good editing package via VS Code.  
 
+[Videos](https://youtu.be/2hPwfBCtXws)
+
 ### Actions
 - take <TARGET>: 
 - bring: copy: `bring blue air`, `bring blue air to blue gust`
